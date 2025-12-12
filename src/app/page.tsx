@@ -1,7 +1,6 @@
 'use client'
 
 import React, { useState } from 'react'
-import { Card } from '@/components/ui/Card'
 import { useTheme } from '@/components/ThemeProvider'
 import { isCryptoSupported } from '@/lib/crypto'
 import { Alert } from '@/components/ui/Alert'
